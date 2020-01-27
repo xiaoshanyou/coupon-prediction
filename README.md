@@ -4,4 +4,5 @@ Predict customers who will use coupons. Tmall is a large online retailer as a pa
 <br/><br/>*These models can help Tmall to identify price-sensitive customers who will use coupons and send coupons or give discounts to target customers. Tmall can do experiments by adjusting coupon types, and update models based on new data collected from different promotions, which can help Tmall to customize coupons for different types of customers.  
 <br/>*You can see the exploratory analysis in the 'Exporation.ipynb' notebook, and you can see the model code in the 'algo.ipynb' notebook. You can find all visualizations by the links in the 'visualization' file. 
 
-
+<br/>I referenced the code from Telecom Customer Churn Prediction from Pavan Raj:
+https://www.kaggle.com/pavanraj159/telecom-customer-churn-prediction
